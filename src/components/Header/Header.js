@@ -15,31 +15,31 @@ const Header = () => {
       <div className="flex text-xl gap-5">
         <CustomLink
           to="/"
-          className="font-semibold text-white shadow-gray-600 shadow-stone-700 shadow-xl rounded-[30px] px-5 py-2"
+          className="font-semibold text-white hover:shadow-gray-600 hover:shadow-stone-700 hover:shadow-xl rounded-[30px] px-5 py-2"
         >
           Home
         </CustomLink>
         <CustomLink
           to="/reviews"
-          className="text-white shadow-gray-600 shadow-stone-700 shadow-xl rounded-[30px] px-5 py-2"
+          className="text-white hover:shadow-gray-600 hover:shadow-stone-700 hover:shadow-xl rounded-[30px] px-5 py-2"
         >
           Reviews
         </CustomLink>
         <CustomLink
           to="/dashboard"
-          className="text-white shadow-gray-600 shadow-stone-700 shadow-xl rounded-[30px] px-5 py-2"
+          className="text-white hover:shadow-gray-600 hover:shadow-stone-700 hover:shadow-xl rounded-[30px] px-5 py-2"
         >
           DashBoard
         </CustomLink>
         <CustomLink
           to="/blogs"
-          className="text-white shadow-gray-600 shadow-stone-700 shadow-xl rounded-[30px] px-5 py-2"
+          className="text-white hover:shadow-gray-600 hover:shadow-stone-700 hover:shadow-xl rounded-[30px] px-5 py-2"
         >
           Blogs
         </CustomLink>
         <CustomLink
           to="/about"
-          className="text-white shadow-gray-600 shadow-stone-700 shadow-xl rounded-[30px] px-5 py-2"
+          className="text-white hover:shadow-gray-600 hover:shadow-stone-700 hover:shadow-xl rounded-[30px] px-5 py-2"
         >
           About
         </CustomLink>
