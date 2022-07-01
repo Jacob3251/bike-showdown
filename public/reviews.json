@@ -1,10 +1,58 @@
-[{"id":1,"first_name":"Aviva","image":"http://dummyimage.com/229x100.png/dddddd/000000","reviews":"Mauris sit amet eros. Suspendisse accumsan tortor quis turpis. Sed ante."},
-{"id":2,"first_name":"Hallie","image":"http://dummyimage.com/118x100.png/dddddd/000000","reviews":"Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh."},
-{"id":3,"first_name":"Albina","image":"http://dummyimage.com/101x100.png/ff4444/ffffff","reviews":"Praesent blandit. Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede. Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem. Fusce consequat. Nulla nisl. Nunc nisl. Duis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa."},
-{"id":4,"first_name":"Novelia","image":"http://dummyimage.com/210x100.png/5fa2dd/ffffff","reviews":"Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis. Donec semper sapien a libero. Nam dui. Proin leo odio, porttitor id, consequat in, consequat ut, nulla."},
-{"id":5,"first_name":"Amara","image":"http://dummyimage.com/125x100.png/cc0000/ffffff","reviews":"Maecenas pulvinar lobortis est. Phasellus sit amet erat."},
-{"id":6,"first_name":"Dela","image":"http://dummyimage.com/208x100.png/5fa2dd/ffffff","reviews":"Cras in purus eu magna vulputate luctus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem. Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio."},
-{"id":7,"first_name":"Esra","image":"http://dummyimage.com/172x100.png/ff4444/ffffff","reviews":"Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros. Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat."},
-{"id":8,"first_name":"Enos","image":"http://dummyimage.com/197x100.png/cc0000/ffffff","reviews":"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus. Pellentesque at nulla. Suspendisse potenti."},
-{"id":9,"first_name":"Cortney","image":"http://dummyimage.com/139x100.png/ff4444/ffffff","reviews":"Cras in purus eu magna vulputate luctus."},
-{"id":10,"first_name":"Neel","image":"http://dummyimage.com/209x100.png/5fa2dd/ffffff","reviews":"Duis mattis egestas metus. Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh. Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros."}]
+[
+  {
+    "id": 1,
+    "name": "Aviva",
+    "image": "https://images.unsplash.com/photo-1566753323558-f4e0952af115?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bWFsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "reviews": "The Filipinos seem to be dazzled by how this two-wheeler performs and appears. Now the reason why I bought this vehicle was the clarity in its claims of power and performance. It gets a no-nonsense look on its face which is true to its inputs that seem to be a little borrowed from its predecessors.",
+    "ratings": "4.5"
+  },
+  {
+    "id": 2,
+    "name": "Hallie",
+    "image": "https://images.unsplash.com/photo-1491743715344-d5eed2a9c5bd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8bWFsZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "reviews": "If you haven't ever come across a beast with limited power output, I suggest you watch out for the Kawasaki Ninja ZX25R. Starting right from a track-oriented look to its green and black color setting, the Ninja dawns the perfect Ninja attire. Interestingly, the bike is no less than a ninja",
+    "ratings": "4.5"
+  },
+  {
+    "id": 3,
+    "name": "Albina",
+    "image": "https://images.unsplash.com/photo-1525457136159-8878648a7ad0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fG1hbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "reviews": "Every biker dream of owning a Ninja but not many can afford it. The price is too high. But riding a Ninja is something that can’t be explained in words. This bike looks bigger and more massive than the Ninja 250. The Ninja ZX-25R has a commanding road presence. It has all-round handsome looks.",
+    "ratings": "4.5"
+  },
+  {
+    "id": 4,
+    "name": "Novelia",
+    "image": "https://images.unsplash.com/photo-1480455624313-e29b44bbfde1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fG1hbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "reviews": "Whichever way you look at it, the Kawasaki Ninja ZX 25R is extremely handsome. It’s the smallest capacity bike in the Ninja lineup, coming with a 250cc engine. But if you want to turn heads on the street, then bet on the Ninja ZX 25R to do the job. Riding the Ninja was a dream come true",
+    "ratings": "4.5"
+  },
+  {
+    "id": 5,
+    "name": "Amara",
+    "image": "https://images.unsplash.com/photo-1514461713809-b245d3816ff1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fG1hbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "reviews": "The Kawasaki Ninja ZX 25R is the best-looking bike I have ever seen in the market. Its appearance was one of the main reasons I couldn't stop myself from getting this bike. ",
+    "ratings": "4.0"
+  },
+  {
+    "id": 6,
+    "name": "Dela",
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjd8fG1hbGV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "reviews": "The Kawasaki Ninja ZX 25R is perfectly suited for the streets of the Philippines. Being one of the compact offerings in the brand, the ZX 25R does a commendable job at carrying over the practicality of the bigger variants of the lot. ",
+    "ratings": "4.5"
+  },
+  {
+    "id": 7,
+    "name": "Esra",
+    "image": "https://images.unsplash.com/photo-1588731234159-8b9963143fca?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "reviews": "The Ninja ZX25R is an absolute beauty in terms of design. The aggressive front end of this bike is bound to make a lot of heads turn in its appreciation. ",
+    "ratings": "5.0"
+  },
+  {
+    "id": 8,
+    "name": "Enos",
+    "image": "https://images.unsplash.com/photo-1583071299210-c6c113f4ac91?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=385&q=80",
+    "reviews": "Recently I got a chance to ride the Ninja ZX25R from Kawasaki and I must say that I was quite impressed with the overall performance of this bike. I loved the design of this bike as it is very sharp and has a lot of aggressive elements to it",
+    "ratings": "4.5"
+  }
+]
