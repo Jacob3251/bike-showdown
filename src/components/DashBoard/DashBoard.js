@@ -17,11 +17,15 @@ const DashBoard = () => {
   const [chart, setChart] = useChart();
   return (
     <div className="w-3/4 mx-auto my-4">
-      <h1>Company Facts</h1>
-      <div className="  grid grid-cols-1 md:grid-cols-2 items-center justify-center">
+      <h1 className="text-3xl text-green-800 font-bold font-serif my-10">
+        Company Facts
+      </h1>
+      <div className="  grid gap-8 grid-cols-1 md:grid-cols-2 items-center justify-center">
         {/* Customized dotted line */}
-        <div className="">
-          <h1>Investment and Revenue Chart</h1>
+        <div className="justify-center items-center">
+          <h1 className="text-xl text-green-800 font-bold font-serif my-10">
+            Investment and Revenue Chart
+          </h1>
           <LineChart
             width={500}
             height={300}
@@ -44,7 +48,9 @@ const DashBoard = () => {
         </div>
         {/* {Stacked Bar Chart} */}
         <div>
-          <h1>Investment and Revenue & Sell Margin</h1>
+          <h1 className="text-xl text-green-800 font-bold font-serif my-10">
+            Investment and Revenue & Sell Margin
+          </h1>
           <BarChart
             width={500}
             height={300}

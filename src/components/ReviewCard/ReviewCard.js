@@ -1,5 +1,7 @@
 import React from "react";
-
+import Rating from "react-rating";
+import { faStar } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 const ReviewCard = (props) => {
   const { id, name, image, reviews, ratings } = props.review;
   return (
@@ -14,9 +16,17 @@ const ReviewCard = (props) => {
       </div>
       <h2>{name}</h2>
       <div>
-        <h3>
-          Ratings given: <span className="text-yellow-500">{ratings}/5.00</span>{" "}
-          stars
+        <h3 className="">
+          <span>Ratings:</span>
+          <Rating
+            initialRating={parseFloat(ratings)}
+            emptySymbol={<FontAwesomeIcon icon={faStar} />}
+            fullSymbol={
+              <FontAwesomeIcon style={{ color: "goldenrod" }} icon={faStar} />
+            }
+            readonly
+            className=""
+          ></Rating>
         </h3>
       </div>
       <div className="w-full text-center px-4">
