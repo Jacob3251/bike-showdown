@@ -1,9 +1,11 @@
 import React from "react";
+import AboutContent from "../AboutContent/AboutContent";
+import InfoPart from "../InfoPart/InfoPart";
 
 const About = () => {
   return (
-    <div>
-      <h3>This is about</h3>
+    <div className="flex flex-col justify-center items-center h-[75vh] ">
+      <AboutContent></AboutContent>
     </div>
   );
 };

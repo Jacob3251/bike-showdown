@@ -1,0 +1,14 @@
+[
+  {
+    "heading": "What is context api ? ",
+    "body": "Actually Context API is the alternative to 'prop drilling'. By Context API we can move props from grandparent to parent to child, and anywhere in the application without the prop drilling in all levels of the application. React.createContext() returns a consumer and a provider. Provider is a component which provides the state to its children. Consumer component which consumes and uses the state. Any situation where we have to pass a prop through a component so it reaches another component somewhere down the tree is where we can use the Context API."
+  },
+  {
+    "heading": "What is semantic tag ? ",
+    "body": "The word 'Sematic' means 'relating to the meaning of the word or language'. So the semantic tag also means those tags which describes its meaning literal meaning. Like in HTML we learned that a sematic element clearly describes its meaning to both the browser and the developer. For example, <form>, <table>, <article> these are semantic elements because these are describing its content. On the hand non-semantic elements such as <span> which describs nothing about its content."
+  },
+  {
+    "heading": "Difference among inline vs inline-block vs inline-block element?",
+    "body": "Compared to display inline, the major difference is that display inline-block allows to set a width and height on the element. With display inline-block, the top/bottom margins/paddings are respected, but with display inline these are not. And the inline-block elements are those elements which elements have the display property  value inline-block and we can add width and height on those elements. All elements are either block or inline so we have the css property inline-block to  make any element inline-block element."
+  }
+]

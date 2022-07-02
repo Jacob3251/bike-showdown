@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <div className="px-12 py-8">
       <div>
-        <InfoPart className=""></InfoPart>
+        <InfoPart className="mb-15"></InfoPart>
         {/* Review part */}
         <HomeReview className=""></HomeReview>
       </div>

@@ -11,11 +11,11 @@ const InfoPart = () => {
           {console.log("img loaded")}
         </div>
         {/* Information-part */}
-        <div className="">
+        <div className="text-left">
           <h1 className="text-3xl font-sans font-extrabold line tracking-wide md:text-4xl mb-5">
             New Bike in TOWN
           </h1>
-          <h3 className="text-2xl font-sans font-semibold line tracking-widest md:text-3xl">
+          <h3 className="text-2xl font-sans font-semibold line tracking-widest md:text-3xl mb-5">
             New 250cc beauty in town
           </h3>
           <p className="pb-5">
