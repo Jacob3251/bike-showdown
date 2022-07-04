@@ -4,14 +4,14 @@ import IM from "./1.png";
 const InfoPart = () => {
   return (
     <div>
-      <div className="grid grid-cols-2 gap-4 items-center justify-center md:max-w-4/5">
+      <div className="grid grid-cols-2 items-center justify-between md:max-w-4/5">
         {/* image-part */}
         <div className="">
           <img src={IM} alt="" />
           {console.log("img loaded")}
         </div>
         {/* Information-part */}
-        <div className="text-left">
+        <div className="text-left pr-10 w-[676px] pb-10">
           <h1 className="text-3xl font-sans font-extrabold line tracking-wide md:text-4xl mb-5">
             New Bike in TOWN
           </h1>

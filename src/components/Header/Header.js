@@ -6,7 +6,7 @@ const Header = () => {
     <div className="top-0 bg-green-400 flex justify-center px-12 py-8 md:justify-between">
       <div className="hidden md:block">
         <Link
-          className="font-mono font-bold text-2xl text-white shadow-gray-600 shadow-stone-700 shadow-xl rounded-[40px] px-5 py-3"
+          className="font-mono font-bold text-2xl text-white shadow-xl rounded-[40px] px-5 py-3"
           to="/"
         >
           BikeShowDown

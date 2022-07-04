@@ -5,10 +5,12 @@ import BlogCard from "../BlogCard/BlogCard";
 const Blogs = () => {
   const [blogs, setBlogs] = useBlogs();
   return (
-    <div>
-      {blogs.map((blog) => (
-        <BlogCard blog={blog}></BlogCard>
-      ))}
+    <div className="px-4 pt-20 pb-24 mx-auto max-w-7xl md:px-2">
+      <div className="">
+        {blogs.map((blog) => (
+          <BlogCard blog={blog}></BlogCard>
+        ))}
+      </div>
     </div>
   );
 };

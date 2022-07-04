@@ -10,11 +10,11 @@ const AboutContent = () => {
             alt=""
           />
         </div>
-        <div>
-          <h1 className="text-left text-3xl font-sans font-extrabold line tracking-wide md:text-4xl mb-5">
+        <div className="text-left">
+          <h1 className="text-3xl font-sans font-extrabold line tracking-wide md:text-4xl mb-5">
             Racing in the blood
           </h1>
-          <p className="text-left">
+          <p className="">
             Having won six Superbike championships in the last seven racing
             seasons, the Kawasaki Racing Team (KRT) is eager to return to its
             rightful place at the top step of the podium during the 2022 FIM

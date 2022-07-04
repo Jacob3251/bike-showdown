@@ -20,7 +20,7 @@ const DashBoard = () => {
       <h1 className="text-3xl text-green-800 font-bold font-serif my-10">
         Company Facts
       </h1>
-      <div className="  grid gap-8 grid-cols-1 md:grid-cols-2 items-center justify-center">
+      <div className="mb-20  grid gap-8 grid-cols-1 md:grid-cols-2 items-center justify-center">
         {/* Customized dotted line */}
         <div className="justify-center items-center">
           <h1 className="text-xl text-green-800 font-bold font-serif my-10">
